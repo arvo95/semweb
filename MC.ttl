@@ -1,0 +1,23 @@
+@prefix schema: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@base <http://localhost:3030/mc/>.
+
+<#Song>
+  a schema:Class;
+  schema:label "Song";
+  schema:comment "A top 5 song in the country.".
+
+<#Duration>
+  a schema:Class;
+  schema:label "Duration";
+  schema:comment "Average duration of songs in the country.".
+
+<#Genre>
+  a schema:Class;
+  schema:label "Genre";
+  schema:comment "A top 5 genre in the country.".
+
+<#Code>
+  a schema:Class;
+  schema:label "Code";
+  schema:comment "Country code".

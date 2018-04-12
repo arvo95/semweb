@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://dbpedia.org/property/"
+   xmlns:ns2="http://dbpedia.org/ontology/"
+   xmlns:ns3="http://localhost:3030/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brazil">
+    <ns3:mcGenre>baile pop</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">15048.0</ns1:gdpPppPerCapita>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.755</ns1:hdi>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</ns1:hdiRank>
+    <ns3:mcGenre>deep funk carioca</ns3:mcGenre>
+    <ns3:mcGenre>brazilian hip hop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.9383</ns2:populationDensity>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">216516</ns3:mcDuration>
+    <ns3:mcCode>br</ns3:mcCode>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.9</ns1:gini>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.8</ns2:populationDensity>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">3.101E12</ns1:gdpPpp>
+    <ns3:mcGenre>brazilian electronica</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canada">
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.672E12</ns1:gdpPpp>
+    <ns3:mcGenre>vapor trap</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:hdiRank>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209293</ns3:mcDuration>
+    <ns3:mcGenre>deep indie r&amp;b</ns3:mcGenre>
+    <ns3:mcGenre>indie r&amp;b</ns3:mcGenre>
+    <ns3:mcGenre>pop</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">46199.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>canadian hip hop</ns3:mcGenre>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.913</ns1:hdi>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.7</ns1:gini>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.41</ns2:populationDensity>
+    <ns3:mcCode>ca</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.20465</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bolivia">
+    <ns3:mcCode>bo</ns3:mcCode>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">7.7975E10</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.3861</ns2:populationDensity>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">119</ns1:hdiRank>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.4</ns2:populationDensity>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202122</ns3:mcDuration>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">6650.0</ns1:gdpPppPerCapita>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.662</ns1:hdi>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.6</ns1:gini>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malaysia">
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">25833.0</ns1:gdpPppPerCapita>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">91.5062</ns2:populationDensity>
+    <ns3:mcGenre>malaysian pop</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">8.00169E11</ns1:gdpPpp>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.779</ns1:hdi>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.2</ns1:gini>
+    <ns3:mcGenre>contemporary mandopop</ns3:mcGenre>
+    <ns3:mcGenre>malaysian hip hop</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232956</ns3:mcDuration>
+    <ns3:mcCode>my</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">92.0</ns2:populationDensity>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ns1:hdiRank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slovakia">
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.1</ns1:gini>
+    <ns3:mcCode>sk</ns3:mcCode>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">29209.0</ns1:gdpPppPerCapita>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">111.0</ns2:populationDensity>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225889</ns3:mcDuration>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.58428E11</ns1:gdpPpp>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.844</ns1:hdi>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ns1:hdiRank>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">110.811</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paraguay">
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">6.3356E10</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.2</ns2:populationDensity>
+    <ns3:mcCode>py</ns3:mcCode>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">8905.0</ns1:gdpPppPerCapita>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220176</ns3:mcDuration>
+    <ns3:mcGenre>latin</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</ns1:hdiRank>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.058</ns2:populationDensity>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.2</ns1:gini>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.679</ns1:hdi>
+    <ns3:mcGenre>trap latino</ns3:mcGenre>
+    <ns3:mcGenre>reggaeton flow</ns3:mcGenre>
+    <ns3:mcGenre>reggaeton</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chile">
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">25415.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>reggaeton flow</ns3:mcGenre>
+    <ns3:mcCode>cl</ns3:mcCode>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</ns1:hdiRank>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">4.57534E11</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.0</ns2:populationDensity>
+    <ns3:mcGenre>trap latino</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.3</ns1:gini>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345944</ns3:mcDuration>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.5522</ns2:populationDensity>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.832</ns1:hdi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poland">
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.843</ns1:hdi>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">27654.0</ns1:gdpPppPerCapita>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">123.0</ns2:populationDensity>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.73</ns1:gini>
+    <ns3:mcGenre>polish hip hop</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</ns1:hdiRank>
+    <ns3:mcCode>pl</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">123.514</ns2:populationDensity>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.051E12</ns1:gdpPpp>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218900</ns3:mcDuration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungary">
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.9</ns1:gini>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">105.946</ns2:populationDensity>
+    <ns3:mcGenre>jazz trio</ns3:mcGenre>
+    <ns3:mcGenre>hungarian pop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">105.9</ns2:populationDensity>
+    <ns3:mcCode>hu</ns3:mcCode>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ns1:hdiRank>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">2.65037E11</ns1:gdpPpp>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.828</ns1:hdi>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223929</ns3:mcDuration>
+    <ns3:mcGenre>retro electro</ns3:mcGenre>
+    <ns3:mcGenre>hungarian rock</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">26941.0</ns1:gdpPppPerCapita>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indonesia">
+    <ns3:mcGenre>boy band</ns3:mcGenre>
+    <ns3:mcGenre>dance pop</ns3:mcGenre>
+    <ns3:mcGenre>j-pop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">124.661</ns2:populationDensity>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">124.66</ns2:populationDensity>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</ns1:hdiRank>
+    <ns3:mcGenre>k-hop</ns3:mcGenre>
+    <ns3:mcGenre>k-pop</ns3:mcGenre>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.684</ns1:hdi>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242070</ns3:mcDuration>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">3.01E12</ns1:gdpPpp>
+    <ns3:mcCode>id</ns3:mcCode>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">11633.0</ns1:gdpPppPerCapita>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.6</ns1:gini>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweden">
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.4673</ns2:populationDensity>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.907</ns1:hdi>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.4</ns1:gini>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">47319.0</ns1:gdpPppPerCapita>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:hdiRank>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">4.6745E11</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.5</ns2:populationDensity>
+    <ns3:mcGenre>swedish indie pop</ns3:mcGenre>
+    <ns3:mcCode>se</ns3:mcCode>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229843</ns3:mcDuration>
+    <ns3:mcGenre>deep swedish hip hop</ns3:mcGenre>
+    <ns3:mcGenre>deep swedish indie pop</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colombia">
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">14171.0</ns1:gdpPppPerCapita>
+    <ns3:mcCode>co</ns3:mcCode>
+    <ns3:mcGenre>colombian hip hop</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.2</ns1:gini>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.72</ns1:hdi>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.8187</ns2:populationDensity>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229143</ns3:mcDuration>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.74</ns2:populationDensity>
+    <ns1:gdpPpp rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">$690.847  billion</ns1:gdpPpp>
+    <ns3:mcGenre>cumbia</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</ns1:hdiRank>
+    <ns3:mcGenre>colombian rock</ns3:mcGenre>
+    <ns3:mcGenre>latin</ns3:mcGenre>
+    <ns3:mcGenre>latin alternative</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greece">
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223661</ns3:mcDuration>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">26606.0</ns1:gdpPppPerCapita>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns1:hdiRank>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">82.0</ns2:populationDensity>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.2</ns1:gini>
+    <ns3:mcCode>gr</ns3:mcCode>
+    <ns3:mcGenre>laiko</ns3:mcGenre>
+    <ns3:mcGenre>entehno</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.8537</ns2:populationDensity>
+    <ns3:mcGenre>greek house</ns3:mcGenre>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.865</ns1:hdi>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">2.87114E11</ns1:gdpPpp>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Latvia">
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.819</ns1:hdi>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.2</ns1:gini>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ns1:hdiRank>
+    <ns3:mcGenre>latvian hip hop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.3</ns2:populationDensity>
+    <ns3:mcGenre>russian pop</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">5.1E10</ns1:gdpPpp>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">25740.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>latvian pop</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217688</ns3:mcDuration>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.3245</ns2:populationDensity>
+    <ns3:mcCode>lv</ns3:mcCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belgium">
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.3</ns1:gini>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">363.6</ns2:populationDensity>
+    <ns3:mcGenre>belgian hip hop</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">43629.0</ns1:gdpPppPerCapita>
+    <ns3:mcCode>be</ns3:mcCode>
+    <ns1:hdiRank rdf:datatype="http://dbpedia.org/datatype/stone">21.0</ns1:hdiRank>
+    <ns3:mcGenre>classic belgian pop</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">4.9462E11</ns1:gdpPpp>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210674</ns3:mcDuration>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">363.585</ns2:populationDensity>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.89</ns1:hdi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honduras">
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235429</ns3:mcDuration>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.3</ns1:gini>
+    <ns3:mcGenre>bachata</ns3:mcGenre>
+    <ns3:mcGenre>latin</ns3:mcGenre>
+    <ns3:mcGenre>merengue urbano</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">4.0983E10</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">64.0</ns2:populationDensity>
+    <ns1:hdiRank rdf:datatype="http://dbpedia.org/datatype/stone">131.0</ns1:hdiRank>
+    <ns3:mcGenre>panamanian pop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">64.093</ns2:populationDensity>
+    <ns3:mcGenre>merengue</ns3:mcGenre>
+    <ns3:mcCode>hn</ns3:mcCode>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">4959.0</ns1:gdpPppPerCapita>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.606</ns1:hdi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norway">
+    <ns1:hdiRank rdf:datatype="http://dbpedia.org/datatype/stone">1.0</ns1:hdiRank>
+    <ns3:mcCode>no</ns3:mcCode>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">70066.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>norwegian hip hop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.5136</ns2:populationDensity>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202663</ns3:mcDuration>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.944</ns1:hdi>
+    <ns3:mcGenre>norwegian indie</ns3:mcGenre>
+    <ns3:mcGenre>russelater</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">3.739E11</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.5</ns2:populationDensity>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.5</ns1:gini>
+    <ns3:mcGenre>deep pop edm</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iceland">
+    <ns3:mcGenre>icelandic hip hop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.2</ns2:populationDensity>
+    <ns3:mcGenre>icelandic rock</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">44575.0</ns1:gdpPppPerCapita>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:hdiRank>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.899</ns1:hdi>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">206047</ns3:mcDuration>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns1:gini>
+    <ns3:mcGenre>icelandic pop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.20079</ns2:populationDensity>
+    <ns3:mcCode>is</ns3:mcCode>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4488E10</ns1:gdpPpp>
+    <ns3:mcGenre>classic icelandic pop</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taiwan">
+    <ns3:mcGenre>cantopop</ns3:mcGenre>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.882</ns1:hdi>
+    <ns3:mcCode>tw</ns3:mcCode>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232322</ns3:mcDuration>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.6</ns1:gini>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns1:hdiRank>
+    <ns3:mcGenre>contemporary mandopop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">648.652</ns2:populationDensity>
+    <ns3:mcGenre>singaporean pop</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">$1,147 trillion b</ns1:gdpPpp>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">48703.0</ns1:gdpPppPerCapita>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">649.0</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hong_Kong">
+    <ns3:mcGenre>c-pop</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:hdiRank>
+    <ns3:mcGenre>hong kong indie</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248472</ns3:mcDuration>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">56428.0</ns1:gdpPppPerCapita>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">4.123E11</ns1:gdpPpp>
+    <ns3:mcCode>hk</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6544.0</ns2:populationDensity>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.91</ns1:hdi>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.7</ns1:gini>
+    <ns3:mcGenre>cantopop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6573.0</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Australia">
+    <ns3:mcGenre>polynesian pop</ns3:mcGenre>
+    <ns3:mcGenre>australian hip hop</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.6</ns1:gini>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:hdiRank>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.935</ns1:hdi>
+    <ns3:mcCode>au</ns3:mcCode>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214397</ns3:mcDuration>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">47318.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>aussietronica</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.137E12</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.8</ns2:populationDensity>
+    <ns3:mcGenre>deep underground hip hop</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Africa">
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">7.42461E11</ns1:gdpPpp>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.666</ns1:hdi>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</ns1:hdiRank>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250250</ns3:mcDuration>
+    <ns3:mcGenre>south african hip hop</ns3:mcGenre>
+    <ns3:mcCode>za</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.4</ns2:populationDensity>
+    <ns3:mcGenre>kwaito</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">13321.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>south african pop</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">63.1</ns1:gini>
+    <ns3:mcGenre>kwaito house</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Switzerland">
+    <ns1:hdiRank rdf:datatype="http://dbpedia.org/datatype/rod">3.0</ns1:hdiRank>
+    <ns3:mcGenre>mundart</ns3:mcGenre>
+    <ns3:mcGenre>deep tropical house</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">4.93126E11</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">198.0</ns2:populationDensity>
+    <ns3:mcGenre>swiss hip hop</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">59150.0</ns1:gdpPppPerCapita>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212271</ns3:mcDuration>
+    <ns3:mcGenre>tropical house</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.5</ns1:gini>
+    <ns3:mcCode>ch</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">184.325</ns2:populationDensity>
+    <ns3:mcGenre>albanian hip hop</ns3:mcGenre>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.93</ns1:hdi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liechtenstein">
+    <ns3:mcCode>li</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">227.0</ns2:populationDensity>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.908</ns1:hdi>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">226.642</ns2:populationDensity>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">3.545E9</ns1:gdpPpp>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">98432.0</ns1:gdpPppPerCapita>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">204471</ns3:mcDuration>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:hdiRank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Czech_Republic">
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">32622.0</ns1:gdpPppPerCapita>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">131.661</ns2:populationDensity>
+    <ns3:mcGenre>czech hip hop</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.1</ns1:gini>
+    <ns3:mcGenre>czech rock</ns3:mcGenre>
+    <ns3:mcCode>cz</ns3:mcCode>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.87</ns1:hdi>
+    <ns3:mcGenre>czech folk</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208001</ns3:mcDuration>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:hdiRank>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">3.43931E11</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">134.0</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Austria">
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">215997</ns3:mcDuration>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">101.4</ns2:populationDensity>
+    <ns3:mcGenre>german hip hop</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://dbpedia.org/datatype/rod">23.0</ns1:hdiRank>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.885</ns1:hdi>
+    <ns3:mcGenre>deep tropical house</ns3:mcGenre>
+    <ns3:mcGenre>eurovision</ns3:mcGenre>
+    <ns3:mcGenre>deep german hip hop</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">4.13333E11</ns1:gdpPpp>
+    <ns3:mcCode>at</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">101.39</ns2:populationDensity>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">48098.0</ns1:gdpPppPerCapita>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.6</ns1:gini>
+    <ns3:mcGenre>tropical house</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Zealand">
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ns1:gini>
+    <ns3:mcGenre>australian pop</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233770</ns3:mcDuration>
+    <ns3:mcGenre>kiwi rock</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">36950.0</ns1:gdpPppPerCapita>
+    <ns3:mcCode>nz</ns3:mcCode>
+    <ns3:mcGenre>polynesian pop</ns3:mcGenre>
+    <ns3:mcGenre>christian uplift</ns3:mcGenre>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.913</ns1:hdi>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:hdiRank>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.732E11</ns1:gdpPpp>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippines">
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</ns1:hdiRank>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.668</ns1:hdi>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ns1:gini>
+    <ns3:mcCode>ph</ns3:mcCode>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">7.93193E11</ns1:gdpPpp>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224682</ns3:mcDuration>
+    <ns3:mcGenre>opm</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">336.6</ns2:populationDensity>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">7612.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>pinoy alternative</ns3:mcGenre>
+    <ns3:mcGenre>channel pop</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mexico">
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60.618</ns2:populationDensity>
+    <ns3:mcGenre>ranchera</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233297</ns3:mcDuration>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">61.0</ns2:populationDensity>
+    <ns3:mcGenre>grupera</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</ns1:hdiRank>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">18857.0</ns1:gdpPppPerCapita>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.1</ns1:gini>
+    <ns3:mcGenre>trap latino</ns3:mcGenre>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.756</ns1:hdi>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">2.224E12</ns1:gdpPpp>
+    <ns3:mcCode>mx</ns3:mcCode>
+    <ns3:mcGenre>latin arena pop</ns3:mcGenre>
+    <ns3:mcGenre>bolero</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Estonia">
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225108</ns3:mcDuration>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.9577</ns2:populationDensity>
+    <ns3:mcGenre>estonian pop</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns1:hdiRank>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.0</ns2:populationDensity>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.9</ns1:gini>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">3.9E10</ns1:gdpPpp>
+    <ns3:mcGenre>estonian hip hop</ns3:mcGenre>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.861</ns1:hdi>
+    <ns3:mcCode>ee</ns3:mcCode>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">29501.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>russian pop</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panama">
+    <ns3:mcGenre>reggaeton flow</ns3:mcGenre>
+    <ns3:mcGenre>panamanian pop</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.9</ns1:gini>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ns1:hdiRank>
+    <ns3:mcGenre>latin</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">8.2179E10</ns1:gdpPpp>
+    <ns3:mcCode>pa</ns3:mcCode>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">20512.0</ns1:gdpPppPerCapita>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">227898</ns3:mcDuration>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.9</ns2:populationDensity>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.78</ns1:hdi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romania">
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">84.4</ns2:populationDensity>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.793</ns1:hdi>
+    <ns3:mcGenre>romanian hip hop</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ns1:gini>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</ns1:hdiRank>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">84.4019</ns2:populationDensity>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">4.41032E11</ns1:gdpPpp>
+    <ns3:mcCode>ro</ns3:mcCode>
+    <ns3:mcGenre>romanian pop</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">22319.0</ns1:gdpPppPerCapita>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223329</ns3:mcDuration>
+    <ns3:mcGenre>romanian rock</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominican_Republic">
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230520</ns3:mcDuration>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.715</ns1:hdi>
+    <ns3:mcGenre>merengue urbano</ns3:mcGenre>
+    <ns3:mcGenre>bachata</ns3:mcGenre>
+    <ns3:mcCode>do</ns3:mcCode>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.1</ns1:gini>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">193.63</ns2:populationDensity>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">15777.0</ns1:gdpPppPerCapita>
+    <ns1:hdiRank rdf:datatype="http://dbpedia.org/datatype/stone">101.0</ns1:hdiRank>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5932E11</ns1:gdpPpp>
+    <ns3:mcGenre>latin</ns3:mcGenre>
+    <ns3:mcGenre>latin hip hop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">197.0</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malta">
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.7</ns1:gini>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.839</ns1:hdi>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1574.14</ns2:populationDensity>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ns1:hdiRank>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.4129E10</ns1:gdpPpp>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195265</ns3:mcDuration>
+    <ns3:mcCode>mt</ns3:mcCode>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">33215.0</ns1:gdpPppPerCapita>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1410.0</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turkey">
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ns1:gini>
+    <ns3:mcCode>tr</ns3:mcCode>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228579</ns3:mcDuration>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.761</ns1:hdi>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">102.0</ns2:populationDensity>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</ns1:hdiRank>
+    <ns3:mcGenre>turkish hip hop</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">21198.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>deep turkish rock</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">101.159</ns2:populationDensity>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.665E12</ns1:gdpPpp>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Costa_Rica">
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">15365.0</ns1:gdpPppPerCapita>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">455845</ns3:mcDuration>
+    <ns3:mcGenre>tico</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">84.0</ns2:populationDensity>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ns1:hdiRank>
+    <ns3:mcCode>cr</ns3:mcCode>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.7</ns1:gini>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">7.4324E10</ns1:gdpPpp>
+    <ns3:mcGenre>post-post-hardcore</ns3:mcGenre>
+    <ns3:mcGenre>bachata</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">84.9425</ns2:populationDensity>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.766</ns1:hdi>
+    <ns3:mcGenre>panamanian pop</ns3:mcGenre>
+    <ns3:mcGenre>latin christian</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luxembourg">
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">100991.0</ns1:gdpPppPerCapita>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">5.8234E10</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">222.935</ns2:populationDensity>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:hdiRank>
+    <ns3:mcCode>lu</ns3:mcCode>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.7</ns1:gini>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.892</ns1:hdi>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">222.8</ns2:populationDensity>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185959</ns3:mcDuration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portugal">
+    <ns1:hdiRank rdf:datatype="http://dbpedia.org/datatype/rod">43.0</ns1:hdiRank>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">115.0</ns2:populationDensity>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.83</ns1:hdi>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220702</ns3:mcDuration>
+    <ns3:mcCode>pt</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">115.058</ns2:populationDensity>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">28476.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>fado</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.2</ns1:gini>
+    <ns3:mcGenre>hip hop tuga</ns3:mcGenre>
+    <ns3:mcGenre>portuguese pop</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">2.96E11</ns1:gdpPpp>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spain">
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.674E12</ns1:gdpPpp>
+    <ns3:mcGenre>spanish pop</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns1:hdiRank>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.876</ns1:hdi>
+    <ns3:mcGenre>trap latino</ns3:mcGenre>
+    <ns3:mcGenre>dance pop</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">227845</ns3:mcDuration>
+    <ns3:mcCode>es</ns3:mcCode>
+    <ns3:mcGenre>pop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">92.0</ns2:populationDensity>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.7</ns1:gini>
+    <ns3:mcGenre>post-teen pop</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">36143.0</ns1:gdpPppPerCapita>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">92.6645</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ecuador">
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218344</ns3:mcDuration>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.732</ns1:hdi>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">11788.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>reggaeton flow</ns3:mcGenre>
+    <ns3:mcGenre>reggaeton</ns3:mcGenre>
+    <ns3:mcCode>ec</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">58.9539</ns2:populationDensity>
+    <ns3:mcGenre>trap latino</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">58.95</ns2:populationDensity>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.6</ns1:gini>
+    <ns3:mcGenre>bachata</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</ns1:hdiRank>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.94845E11</ns1:gdpPpp>
+    <ns3:mcGenre>latin</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Argentina">
+    <ns3:mcGenre>argentine hip hop</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">22554.0</ns1:gdpPppPerCapita>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261273</ns3:mcDuration>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">9.71967E11</ns1:gdpPpp>
+    <ns3:mcGenre>cumbia pop</ns3:mcGenre>
+    <ns3:mcCode>ar</ns3:mcCode>
+    <ns3:mcGenre>cumbia villera</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.4</ns2:populationDensity>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ns1:hdiRank>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3</ns1:gini>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.836</ns1:hdi>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Singapore">
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7687.29</ns2:populationDensity>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:hdiRank>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.4</ns1:gini>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.912</ns1:hdi>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7697.0</ns2:populationDensity>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">82762.0</ns1:gdpPppPerCapita>
+    <ns3:mcCode>sg</ns3:mcCode>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">244881</ns3:mcDuration>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">4.52686E11</ns1:gdpPpp>
+    <ns3:mcGenre>singaporean pop</ns3:mcGenre>
+    <ns3:mcGenre>contemporary mandopop</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uruguay">
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">7.5212E10</ns1:gdpPpp>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">21944.0</ns1:gdpPppPerCapita>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.5329</ns2:populationDensity>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</ns1:hdiRank>
+    <ns3:mcGenre>cumbia pop</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214112</ns3:mcDuration>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.9</ns1:gini>
+    <ns3:mcCode>uy</ns3:mcCode>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.793</ns1:hdi>
+    <ns3:mcGenre>cubaton</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.0</ns2:populationDensity>
+    <ns3:mcGenre>argentine hip hop</ns3:mcGenre>
+    <ns3:mcGenre>latin</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ireland">
+    <ns3:mcGenre>uk drill</ns3:mcGenre>
+    <ns3:mcGenre>tropical house</ns3:mcGenre>
+    <ns3:mcGenre>grime</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240302</ns3:mcDuration>
+    <ns3:mcCode>ie</ns3:mcCode>
+    <ns3:mcGenre>pop</ns3:mcGenre>
+    <ns3:mcGenre>irish hip hop</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USA">
+    <ns3:mcGenre>alternative hip hop</ns3:mcGenre>
+    <ns3:mcGenre>vapor trap</ns3:mcGenre>
+    <ns3:mcGenre>dirty south rap</ns3:mcGenre>
+    <ns3:mcCode>us</ns3:mcCode>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212719</ns3:mcDuration>
+    <ns3:mcGenre>detroit hip hop</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Germany">
+    <ns3:mcGenre>deep german hip hop</ns3:mcGenre>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.916</ns1:hdi>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">47033.0</ns1:gdpPppPerCapita>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">225.098</ns2:populationDensity>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.7</ns1:gini>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">227.0</ns2:populationDensity>
+    <ns3:mcCode>de</ns3:mcCode>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209601</ns3:mcDuration>
+    <ns3:mcGenre>german hip hop</ns3:mcGenre>
+    <ns3:mcGenre>tropical house</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:hdiRank>
+    <ns3:mcGenre>deep tropical house</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">3.842E12</ns1:gdpPpp>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bulgaria">
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ns1:gini>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">64.9</ns2:populationDensity>
+    <ns3:mcCode>bg</ns3:mcCode>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.41375E11</ns1:gdpPpp>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231777</ns3:mcDuration>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ns1:hdiRank>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.782</ns1:hdi>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">64.8652</ns2:populationDensity>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">19839.0</ns1:gdpPppPerCapita>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicaragua">
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190220</ns3:mcDuration>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">4972.0</ns1:gdpPppPerCapita>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</ns1:hdiRank>
+    <ns3:mcCode>ni</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.0156</ns2:populationDensity>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.0</ns2:populationDensity>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.7</ns1:gini>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.631</ns1:hdi>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">3.1177E10</ns1:gdpPpp>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cyprus">
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222257</ns3:mcDuration>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.85</ns1:hdi>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">2.7516E10</ns1:gdpPpp>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">30882.0</ns1:gdpPppPerCapita>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ns1:hdiRank>
+    <ns3:mcCode>cy</ns3:mcCode>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.1</ns1:gini>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">123.4</ns2:populationDensity>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">123.36</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lithuania">
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.9</ns1:gini>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ns1:hdiRank>
+    <ns3:mcCode>lt</ns3:mcCode>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.839</ns1:hdi>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">29881.0</ns1:gdpPppPerCapita>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">8.6E10</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.0</ns2:populationDensity>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217841</ns3:mcDuration>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.7879</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israel">
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">387.647</ns2:populationDensity>
+    <ns3:mcCode>il</ns3:mcCode>
+    <ns3:mcGenre>israeli pop</ns3:mcGenre>
+    <ns3:mcGenre>mizrahi</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.8</ns1:gini>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:hdiRank>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218380</ns3:mcDuration>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.894</ns1:hdi>
+    <ns3:mcGenre>israeli rock</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">387.63</ns2:populationDensity>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">34336.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>hebrew pop</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">2.92809E11</ns1:gdpPpp>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_Salvador">
+    <ns3:mcCode>sv</ns3:mcCode>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">303.09</ns2:populationDensity>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">5.2666E10</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">303.1</ns2:populationDensity>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.686</ns1:hdi>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">230189</ns3:mcDuration>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">8668.0</ns1:gdpPppPerCapita>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</ns1:hdiRank>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.5</ns1:gini>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peru">
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">4.03322E11</ns1:gdpPpp>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.734</ns1:hdi>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</ns1:hdiRank>
+    <ns3:mcGenre>pop reggaeton</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741329</ns3:mcDuration>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.7</ns1:gini>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.0078</ns2:populationDensity>
+    <ns3:mcCode>pe</ns3:mcCode>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">12638.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>salsa international</ns3:mcGenre>
+    <ns3:mcGenre>orquesta tropical</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.0</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denmark">
+    <ns3:mcGenre>deep danish pop</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:hdiRank>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.5</ns1:gini>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">46976.0</ns1:gdpPppPerCapita>
+    <ns3:mcCode>dk</ns3:mcCode>
+    <ns3:mcGenre>danish hip hop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">132.96</ns2:populationDensity>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">2.65302E11</ns1:gdpPpp>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.923</ns1:hdi>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202388</ns3:mcDuration>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Finland">
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">2.34578E11</ns1:gdpPpp>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.0</ns2:populationDensity>
+    <ns3:mcGenre>finnish hip hop</ns3:mcGenre>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">42654.0</ns1:gdpPppPerCapita>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.883</ns1:hdi>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.8302</ns2:populationDensity>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.6</ns1:gini>
+    <ns3:mcCode>fi</ns3:mcCode>
+    <ns3:mcGenre>finnish dance pop</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218075</ns3:mcDuration>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns1:hdiRank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/France">
+    <ns3:mcGenre>francoton</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.1</ns1:gini>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">41181.0</ns1:gdpPppPerCapita>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">116.0</ns2:populationDensity>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">116.217</ns2:populationDensity>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.888</ns1:hdi>
+    <ns3:mcGenre>trap francais</ns3:mcGenre>
+    <ns3:mcGenre>french hip hop</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">2.647E12</ns1:gdpPpp>
+    <ns3:mcCode>fr</ns3:mcCode>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218252</ns3:mcDuration>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:hdiRank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UK">
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213778</ns3:mcDuration>
+    <ns3:mcCode>uk</ns3:mcCode>
+    <ns3:mcGenre>uk hip hop</ns3:mcGenre>
+    <ns3:mcGenre>grime</ns3:mcGenre>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Netherlands">
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210571</ns3:mcDuration>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">50339.0</ns1:gdpPppPerCapita>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41526.0</ns2:populationDensity>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.2</ns1:gini>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">8.56265E11</ns1:gdpPpp>
+    <ns3:mcCode>nl</ns3:mcCode>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.922</ns1:hdi>
+    <ns3:mcGenre>dutch hip hop</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6190.38</ns2:populationDensity>
+    <ns3:mcGenre>deep dutch hip hop</ns3:mcGenre>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:hdiRank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Italy">
+    <ns3:mcCode>it</ns3:mcCode>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">36191.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>italian arena pop</ns3:mcGenre>
+    <ns3:mcGenre>italian hip hop</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.7</ns1:gini>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">201.352</ns2:populationDensity>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">201.3</ns2:populationDensity>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235012</ns3:mcDuration>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.873</ns1:hdi>
+    <ns3:mcGenre>italian alternative</ns3:mcGenre>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">2.213E12</ns1:gdpPpp>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns1:hdiRank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guatemala">
+    <ns3:mcGenre>reggaeton flow</ns3:mcGenre>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">129.0</ns2:populationDensity>
+    <ns3:mcGenre>reggaeton</ns3:mcGenre>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55.1</ns1:gini>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">1.24941E11</ns1:gdpPpp>
+    <ns3:mcCode>gt</ns3:mcCode>
+    <ns3:mcGenre>trap latino</ns3:mcGenre>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.627</ns1:hdi>
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">7680.0</ns1:gdpPppPerCapita>
+    <ns3:mcGenre>bachata</ns3:mcGenre>
+    <ns3:mcGenre>latin christian</ns3:mcGenre>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221613</ns3:mcDuration>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</ns1:hdiRank>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">134.595</ns2:populationDensity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vietnam">
+    <ns1:gdpPppPerCapita rdf:datatype="http://dbpedia.org/datatype/usDollar">6414.0</ns1:gdpPppPerCapita>
+    <ns1:hdi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.666</ns1:hdi>
+    <ns2:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">91700000.0</ns2:populationDensity>
+    <ns3:mcDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">238315</ns3:mcDuration>
+    <ns1:gdpPpp rdf:datatype="http://dbpedia.org/datatype/usDollar">5.93509E11</ns1:gdpPpp>
+    <ns1:gini rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.6</ns1:gini>
+    <ns3:mcGenre>vietnamese bolero</ns3:mcGenre>
+    <ns3:mcGenre>vietnamese pop</ns3:mcGenre>
+    <ns3:mcCode>vn</ns3:mcCode>
+    <ns1:hdiRank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</ns1:hdiRank>
+  </rdf:Description>
+</rdf:RDF>
